@@ -1,0 +1,802 @@
+[
+  {
+    "bin_id": "BIN_001",
+    "zone": "Malviya Nagar",
+    "lat": 26.859297211994235,
+    "lng": 75.80077740449128,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_002",
+    "zone": "Malviya Nagar",
+    "lat": 26.843959884228116,
+    "lng": 75.81267602587202,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_003",
+    "zone": "Malviya Nagar",
+    "lat": 26.851626123672446,
+    "lng": 75.79561513326651,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_004",
+    "zone": "Malviya Nagar",
+    "lat": 26.85362852691448,
+    "lng": 75.79553686327242,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_005",
+    "zone": "Malviya Nagar",
+    "lat": 26.85709722650671,
+    "lng": 75.80797859553448,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_006",
+    "zone": "Malviya Nagar",
+    "lat": 26.855642376413023,
+    "lng": 75.81432633096027,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_007",
+    "zone": "Malviya Nagar",
+    "lat": 26.85825534547972,
+    "lng": 75.80306601239643,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_008",
+    "zone": "Malviya Nagar",
+    "lat": 26.864473113732963,
+    "lng": 75.8029782690827,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_009",
+    "zone": "Malviya Nagar",
+    "lat": 26.843821193044004,
+    "lng": 75.81523986479233,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_010",
+    "zone": "Malviya Nagar",
+    "lat": 26.85901356288065,
+    "lng": 75.80776947419491,
+    "type": "commercial",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_011",
+    "zone": "Malviya Nagar",
+    "lat": 26.854748975150557,
+    "lng": 75.81480571194207,
+    "type": "market",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_012",
+    "zone": "Malviya Nagar",
+    "lat": 26.84611492616616,
+    "lng": 75.79656932357177,
+    "type": "commercial",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_013",
+    "zone": "Malviya Nagar",
+    "lat": 26.86514531649586,
+    "lng": 75.81542762530437,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_014",
+    "zone": "Malviya Nagar",
+    "lat": 26.84817136647464,
+    "lng": 75.81015642666235,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_015",
+    "zone": "Malviya Nagar",
+    "lat": 26.850384343210806,
+    "lng": 75.79992816873852,
+    "type": "commercial",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_016",
+    "zone": "Malviya Nagar",
+    "lat": 26.8639797101051,
+    "lng": 75.81045284924592,
+    "type": "commercial",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_017",
+    "zone": "Malviya Nagar",
+    "lat": 26.85899904315081,
+    "lng": 75.79882165985029,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_018",
+    "zone": "Malviya Nagar",
+    "lat": 26.865248560415278,
+    "lng": 75.8102599942365,
+    "type": "market",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_019",
+    "zone": "Malviya Nagar",
+    "lat": 26.849282785625967,
+    "lng": 75.81333952586222,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_020",
+    "zone": "Malviya Nagar",
+    "lat": 26.861223262256164,
+    "lng": 75.81422109921851,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_021",
+    "zone": "Malviya Nagar",
+    "lat": 26.843088526525076,
+    "lng": 75.81681526698046,
+    "type": "market",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_022",
+    "zone": "Malviya Nagar",
+    "lat": 26.857230527967076,
+    "lng": 75.80439516562545,
+    "type": "commercial",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_023",
+    "zone": "Mansarovar",
+    "lat": 26.843357123995954,
+    "lng": 75.77091906018465,
+    "type": "market",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_024",
+    "zone": "Mansarovar",
+    "lat": 26.851030063765364,
+    "lng": 75.78654774920646,
+    "type": "commercial",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_025",
+    "zone": "Mansarovar",
+    "lat": 26.842263698219774,
+    "lng": 75.78894090255588,
+    "type": "market",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_026",
+    "zone": "Mansarovar",
+    "lat": 26.85513877178081,
+    "lng": 75.785666469832,
+    "type": "market",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_027",
+    "zone": "Mansarovar",
+    "lat": 26.84083956804134,
+    "lng": 75.78133154912392,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_028",
+    "zone": "Mansarovar",
+    "lat": 26.846158862876155,
+    "lng": 75.78890691312576,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_029",
+    "zone": "Mansarovar",
+    "lat": 26.857658712853627,
+    "lng": 75.76527554452663,
+    "type": "commercial",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_030",
+    "zone": "Mansarovar",
+    "lat": 26.8582349228031,
+    "lng": 75.7830210671902,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_031",
+    "zone": "Mansarovar",
+    "lat": 26.84404400308754,
+    "lng": 75.76879578610428,
+    "type": "commercial",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_032",
+    "zone": "Mansarovar",
+    "lat": 26.858020470569077,
+    "lng": 75.77132133721803,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_033",
+    "zone": "Mansarovar",
+    "lat": 26.858903068144276,
+    "lng": 75.78589244567608,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_034",
+    "zone": "Mansarovar",
+    "lat": 26.849183909167465,
+    "lng": 75.76977386644235,
+    "type": "commercial",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_035",
+    "zone": "Mansarovar",
+    "lat": 26.84994509672287,
+    "lng": 75.78368703548713,
+    "type": "commercial",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_036",
+    "zone": "Mansarovar",
+    "lat": 26.84477974536811,
+    "lng": 75.76546744181726,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_037",
+    "zone": "Mansarovar",
+    "lat": 26.842746855448112,
+    "lng": 75.77078091821873,
+    "type": "commercial",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_038",
+    "zone": "Mansarovar",
+    "lat": 26.85456578227627,
+    "lng": 75.78458455808209,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_039",
+    "zone": "Mansarovar",
+    "lat": 26.852834019745938,
+    "lng": 75.78772436831292,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_040",
+    "zone": "Mansarovar",
+    "lat": 26.849664170898038,
+    "lng": 75.77955825401959,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_041",
+    "zone": "Mansarovar",
+    "lat": 26.85512636471926,
+    "lng": 75.78155682317039,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_042",
+    "zone": "Mansarovar",
+    "lat": 26.86088358455986,
+    "lng": 75.78059707338335,
+    "type": "commercial",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_043",
+    "zone": "Vaishali Nagar",
+    "lat": 26.911235667393388,
+    "lng": 75.732149734728,
+    "type": "market",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_044",
+    "zone": "Vaishali Nagar",
+    "lat": 26.90090482224017,
+    "lng": 75.7394941165382,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_045",
+    "zone": "Vaishali Nagar",
+    "lat": 26.902103834064217,
+    "lng": 75.74134647097449,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_046",
+    "zone": "Vaishali Nagar",
+    "lat": 26.922130080312147,
+    "lng": 75.7468312496061,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_047",
+    "zone": "Vaishali Nagar",
+    "lat": 26.906112111224857,
+    "lng": 75.74225546667911,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_048",
+    "zone": "Vaishali Nagar",
+    "lat": 26.9035754843694,
+    "lng": 75.74865234177395,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_049",
+    "zone": "Vaishali Nagar",
+    "lat": 26.91923086618298,
+    "lng": 75.74557992794641,
+    "type": "market",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_050",
+    "zone": "Vaishali Nagar",
+    "lat": 26.902726339541495,
+    "lng": 75.73654522837776,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_051",
+    "zone": "Vaishali Nagar",
+    "lat": 26.91160859203288,
+    "lng": 75.74369782038704,
+    "type": "market",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_052",
+    "zone": "Vaishali Nagar",
+    "lat": 26.910062910770456,
+    "lng": 75.73434326252949,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_053",
+    "zone": "Vaishali Nagar",
+    "lat": 26.904998161731402,
+    "lng": 75.73907085809385,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_054",
+    "zone": "Vaishali Nagar",
+    "lat": 26.904803712858897,
+    "lng": 75.73730307364163,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_055",
+    "zone": "Vaishali Nagar",
+    "lat": 26.91979253387356,
+    "lng": 75.74674320541925,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_056",
+    "zone": "Vaishali Nagar",
+    "lat": 26.916051477455966,
+    "lng": 75.73917411051441,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_057",
+    "zone": "Vaishali Nagar",
+    "lat": 26.922632807592198,
+    "lng": 75.74656869762595,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_058",
+    "zone": "Vaishali Nagar",
+    "lat": 26.91205538701082,
+    "lng": 75.73132993518078,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_059",
+    "zone": "Vaishali Nagar",
+    "lat": 26.904351290913638,
+    "lng": 75.72625172908045,
+    "type": "market",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_060",
+    "zone": "Vaishali Nagar",
+    "lat": 26.922636433765426,
+    "lng": 75.74504310456307,
+    "type": "market",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_061",
+    "zone": "Civil Lines",
+    "lat": 26.930718196086403,
+    "lng": 75.82903212761796,
+    "type": "commercial",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_062",
+    "zone": "Civil Lines",
+    "lat": 26.918557548814423,
+    "lng": 75.81672482156193,
+    "type": "market",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_063",
+    "zone": "Civil Lines",
+    "lat": 26.931657692290937,
+    "lng": 75.81296298171543,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_064",
+    "zone": "Civil Lines",
+    "lat": 26.915203416094332,
+    "lng": 75.82294292441061,
+    "type": "commercial",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_065",
+    "zone": "Civil Lines",
+    "lat": 26.937058693678587,
+    "lng": 75.81342267516577,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_066",
+    "zone": "Civil Lines",
+    "lat": 26.9282808425548,
+    "lng": 75.8277051012865,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_067",
+    "zone": "Civil Lines",
+    "lat": 26.91687727873473,
+    "lng": 75.8328668955391,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_068",
+    "zone": "Civil Lines",
+    "lat": 26.9282684596848,
+    "lng": 75.82636515624796,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_069",
+    "zone": "Civil Lines",
+    "lat": 26.92800813494299,
+    "lng": 75.82404678517277,
+    "type": "market",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_070",
+    "zone": "Civil Lines",
+    "lat": 26.930073423394475,
+    "lng": 75.8190404127071,
+    "type": "commercial",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_071",
+    "zone": "Civil Lines",
+    "lat": 26.917141078771056,
+    "lng": 75.8269920189321,
+    "type": "commercial",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_072",
+    "zone": "Civil Lines",
+    "lat": 26.93629643996093,
+    "lng": 75.83395762289867,
+    "type": "market",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_073",
+    "zone": "Civil Lines",
+    "lat": 26.928907822131833,
+    "lng": 75.82501184749533,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_074",
+    "zone": "Civil Lines",
+    "lat": 26.92690322569844,
+    "lng": 75.82364123265717,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_075",
+    "zone": "Civil Lines",
+    "lat": 26.935140740168475,
+    "lng": 75.83260248581962,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_076",
+    "zone": "Civil Lines",
+    "lat": 26.91778592397657,
+    "lng": 75.83150987891135,
+    "type": "commercial",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_077",
+    "zone": "Civil Lines",
+    "lat": 26.937612479446035,
+    "lng": 75.83087039863835,
+    "type": "commercial",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_078",
+    "zone": "Civil Lines",
+    "lat": 26.933610499242768,
+    "lng": 75.8186850900528,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_079",
+    "zone": "Civil Lines",
+    "lat": 26.92034718211569,
+    "lng": 75.83285310496814,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_080",
+    "zone": "Civil Lines",
+    "lat": 26.92076215051499,
+    "lng": 75.81655511171536,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_081",
+    "zone": "Sodala",
+    "lat": 26.90549993109123,
+    "lng": 75.77746990756941,
+    "type": "commercial",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_082",
+    "zone": "Sodala",
+    "lat": 26.910728075785904,
+    "lng": 75.77730648911908,
+    "type": "market",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_083",
+    "zone": "Sodala",
+    "lat": 26.89916581854153,
+    "lng": 75.76364032537533,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_084",
+    "zone": "Sodala",
+    "lat": 26.90750686135247,
+    "lng": 75.77229072105524,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_085",
+    "zone": "Sodala",
+    "lat": 26.90678954180035,
+    "lng": 75.77024033010704,
+    "type": "commercial",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_086",
+    "zone": "Sodala",
+    "lat": 26.8892320727906,
+    "lng": 75.75880585264177,
+    "type": "market",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_087",
+    "zone": "Sodala",
+    "lat": 26.88986467531346,
+    "lng": 75.7658611836283,
+    "type": "residential",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_088",
+    "zone": "Sodala",
+    "lat": 26.892058692462772,
+    "lng": 75.76439820039833,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_089",
+    "zone": "Sodala",
+    "lat": 26.894041836920152,
+    "lng": 75.76298871374135,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_090",
+    "zone": "Sodala",
+    "lat": 26.907722789804914,
+    "lng": 75.77821923283483,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_091",
+    "zone": "Sodala",
+    "lat": 26.906987462667445,
+    "lng": 75.77921833174167,
+    "type": "market",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_092",
+    "zone": "Sodala",
+    "lat": 26.912428944790342,
+    "lng": 75.77645852127857,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_093",
+    "zone": "Sodala",
+    "lat": 26.893304655922037,
+    "lng": 75.77918769508581,
+    "type": "market",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_094",
+    "zone": "Sodala",
+    "lat": 26.909737536681007,
+    "lng": 75.7764579835978,
+    "type": "market",
+    "capacity_liters": 500
+  },
+  {
+    "bin_id": "BIN_095",
+    "zone": "Sodala",
+    "lat": 26.90789698821925,
+    "lng": 75.75959429503368,
+    "type": "commercial",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_096",
+    "zone": "Sodala",
+    "lat": 26.894338409221096,
+    "lng": 75.77659807853433,
+    "type": "residential",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_097",
+    "zone": "Sodala",
+    "lat": 26.896324580816128,
+    "lng": 75.77608829197968,
+    "type": "market",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_098",
+    "zone": "Sodala",
+    "lat": 26.889567946432834,
+    "lng": 75.76163511491987,
+    "type": "residential",
+    "capacity_liters": 200
+  },
+  {
+    "bin_id": "BIN_099",
+    "zone": "Sodala",
+    "lat": 26.909744470608725,
+    "lng": 75.78020533849717,
+    "type": "commercial",
+    "capacity_liters": 300
+  },
+  {
+    "bin_id": "BIN_100",
+    "zone": "Sodala",
+    "lat": 26.904395561726584,
+    "lng": 75.76659228122465,
+    "type": "commercial",
+    "capacity_liters": 300
+  }
+]

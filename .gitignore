@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.venv
+env/
+# We intentionally do NOT ignore data/ and models/saved/ 
+# as they contain the synthetic pre-generated data required for Streamlit Cloud
